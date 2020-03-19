@@ -36,7 +36,7 @@
 
 Aplicação em ReactJS que busca repositorios da API do github, e lista suas issues, aplicando os principais e pilares conceitos do React: Componente, Estado e Propriedade.
 
-### :exec: Como executar
+## :exec: Como executar
 
 `yarn` <br />
 `yarn start` <br />
